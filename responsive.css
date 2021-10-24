@@ -1,0 +1,10 @@
+@media screen and (max-width: 991px) {
+  .team-item {
+    width: calc(50% - 30px);
+  }
+}
+@media screen and (max-width: 767px) {
+  .team-item {
+    width: calc(100% - 30px);
+  }
+}
